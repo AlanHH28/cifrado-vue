@@ -21,7 +21,7 @@ npm run lint
 ```
 ### Instalamos la libreria de Crypto.js
 ```
-npm npm install crypto-js
+npm install crypto-js
 ```
 
 ### Customize configuration
